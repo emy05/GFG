@@ -1,2 +1,2 @@
 # GFG
-I practice Problem Solving in GFG
+I practice Problem Solving in GeeksForGeeks
